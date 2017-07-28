@@ -1,0 +1,89 @@
+.content {
+      margin-top: 1rem;  
+}
+
+.content>.content_once {
+    width: 92%;
+    margin: 0 auto;
+    border: 1px solid #f0f0f0;
+    padding: .65rem;
+    background: #fdfdfd;
+    margin-bottom: 1rem;
+}
+
+.header {
+    height: 2rem;
+    line-height: 2rem;
+    margin-bottom: .6rem;
+}
+
+.header span {
+    font-size: 1.2rem;
+    color: #787878;
+    overflow: hidden;
+    text-align: left;
+    width: 70%;
+    height:2rem; 
+    display: inline-block;
+}
+
+.header img {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 1.1rem;
+    border-radius: 50%;
+}
+
+.dis_pic {
+    width: 100%;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: .45rem;
+    color: #333;
+    text-align: left;
+    /* display: block; */
+}
+
+.neihan_mark {
+    text-align: left;
+}
+
+.neihan_mark a {
+    border: 1px solid #42b983;
+    color: #42b983;
+    padding: 0 .84rem;
+    line-height: 1rem;
+    border-radius: .7508rem;
+    text-align: center;
+    font-size: .8rem;
+}
+
+.footer>ul {
+    width: 100%;
+    height: 2rem;
+    line-height: 2rem;
+    margin-top: .65rem;
+}
+
+.footer>ul>li {
+    width: 25%;
+    height: 2.65rem;
+    float: left;
+    font-size: .8rem;
+    text-align: center;
+    line-height: 2rem;
+}
+
+.footer>ul>li>a> {
+    width: 100%;
+}
+
+.footer>ul>li>a>img {
+    width: 1.25rem;
+}
+
+.footer>ul>li>a>span {
+    line-height: 1.35rem;
+}
